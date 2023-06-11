@@ -15,11 +15,15 @@
 # production
 /build
 
-/public/images
+
 
 # misc
 .DS_Store
 *.pem
+/public/images
+/public/All-Texts
+
+
 
 # debug
 npm-debug.log*
