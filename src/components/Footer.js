@@ -8,9 +8,7 @@ const Footer = () => {
       <Layout className="py-8 flex items-center justify-between">
         <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
         <div className="flex items-center">
-          Construido com
-          <span className="text-primary text-2x1 px-1">&#9825;</span>
-          por&nbsp;
+          Construido por&nbsp;
           <Link href="/" className="underline underline-offset-2">
             Andrei Boulter
           </Link>

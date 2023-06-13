@@ -25,7 +25,7 @@ const Navbar = () => {
     <header className="w-full px-32 py-8 font-medium flex items-center justify-between">
       <nav>
         <CustomLink href="/" title="Home" className="mr-4" />
-        <CustomLink href="/sobre" title="Sobre mim" className="mx-4" />
+        <CustomLink href="/about" title="Sobre mim" className="mx-4" />
         <CustomLink href="/projects" title="Projectos" className="mx-4" />
         <CustomLink href="/contact" title="Contacto" className="ml-4" />
       </nav>
