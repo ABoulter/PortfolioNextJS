@@ -29,7 +29,7 @@ export default function Home() {
                 text="O meu nome é Andrei Boulter"
                 className="!text-6x1 text-left"
               />
-              <p className="my-4 text-base font-medium">
+              <p className="my-4 text-base font-medium self-start">
                 Estagiário de Full-Stack Web Development, à procura de aprender
                 mais e crescer na área!
               </p>
