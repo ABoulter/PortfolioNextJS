@@ -30,7 +30,7 @@ export default function Home() {
                 className="!text-6x1 text-left"
               />
               <p className="my-4 text-base font-medium self-start">
-                Estagiário de Full-Stack Web Development, à procura de aprender
+                Sou um Full-Stack Web Developer Junior, à procura de aprender
                 mais e crescer na área!
               </p>
               <div className="flex items-center self-start mt-2">
